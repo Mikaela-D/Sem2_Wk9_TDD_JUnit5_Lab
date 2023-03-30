@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fc3fc3-e96c-4cf9-949f-7bcb98c81d89" name="Changes" comment="Added code in Calculator and CalculatorTest">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_03_2023_12_10__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_03_2023_12_10__Changes_.xml" afterDir="false" />
+    <list default="true" id="a3fc3fc3-e96c-4cf9-949f-7bcb98c81d89" name="Changes" comment="Added code to calculate the testMultiply method">
+      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Testing_Delete" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,7 +118,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680178734965</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Removed old branch">
+      <created>1680179308614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680179308614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added new branch and testMultiply method">
+      <created>1680179526198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680179526198</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added code to calculate the testMultiply method">
+      <created>1680179622631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680179622631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +171,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added new method testDelete" />
     <MESSAGE value="Added code in Calculator and CalculatorTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code in Calculator and CalculatorTest" />
+    <MESSAGE value="Removed old branch" />
+    <MESSAGE value="Added new branch and testMultiply method" />
+    <MESSAGE value="Added code to calculate the testMultiply method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to calculate the testMultiply method" />
   </component>
 </project>
