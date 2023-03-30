@@ -12,4 +12,10 @@ public class CalculatorTest {
         myCalc = new Calculator();
         assertEquals(40, myCalc.add(20,20));
     }
+
+    @Test
+    public void testDelete() {
+        myCalc = new Calculator();
+        assertEquals(0, myCalc.subtract(20,20));
+    }
 }
