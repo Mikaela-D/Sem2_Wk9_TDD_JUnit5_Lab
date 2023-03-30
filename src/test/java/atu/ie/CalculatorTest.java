@@ -24,4 +24,9 @@ public class CalculatorTest {
         myCalc = new Calculator();
         assertEquals(25, myCalc.multiply(5,5));
     }
+
+    @Test
+    public void testDivide() {
+
+    }
 }
