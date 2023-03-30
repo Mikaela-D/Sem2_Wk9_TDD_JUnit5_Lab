@@ -15,6 +15,7 @@ public class CalculatorTest {
 
     @Test
     public void testDelete() {
+        myCalc = new Calculator();
         assertEquals(0, myCalc.subtract(20,20));
     }
 }
