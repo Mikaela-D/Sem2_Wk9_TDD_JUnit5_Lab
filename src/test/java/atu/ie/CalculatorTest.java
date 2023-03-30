@@ -28,6 +28,6 @@ public class CalculatorTest {
     @Test
     public void testDivide() {
         myCalc = new Calculator();
-        assertEquals(4, myCalc.divide(8,4));
+        assertEquals(4, myCalc.divide(8,2));
     }
 }
