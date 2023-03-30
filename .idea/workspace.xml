@@ -4,25 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fc3fc3-e96c-4cf9-949f-7bcb98c81d89" name="Changes" comment="Added class Calculator and fixed a bug in CalculatorTest">
-      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" afterDir="false" />
+    <list default="true" id="a3fc3fc3-e96c-4cf9-949f-7bcb98c81d89" name="Changes" comment="The branch added for testing the method Subtract">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Testing_Subtract" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.CalculatorTest.testAdd">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD_JUnit_Calculator" />
@@ -90,37 +83,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680172358268</updated>
-      <workItem from="1680172361720" duration="1472000" />
+      <workItem from="1680174368114" duration="943000" />
     </task>
-    <task id="LOCAL-00001" summary="New project for testing a Calculator application created">
-      <created>1680172450913</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1680172450913</updated>
-    </task>
-    <task id="LOCAL-00002" summary="New branch for testing the Add method addded">
-      <created>1680172604774</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1680172604775</updated>
-    </task>
-    <task id="LOCAL-00003" summary="New Class for testing the methods added">
-      <created>1680172681501</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1680172681501</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Added class Calculator and fixed a bug in CalculatorTest">
-      <created>1680173557115</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1680173557115</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,18 +95,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="New project for testing a Calculator application created" />
-    <MESSAGE value="New branch for testing the Add method addded" />
-    <MESSAGE value="New Class for testing the methods added" />
-    <MESSAGE value="Added code to test the testAdd method" />
-    <MESSAGE value="Added class Calculator and fixed a bug in CalculatorTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added class Calculator and fixed a bug in CalculatorTest" />
   </component>
 </project>
