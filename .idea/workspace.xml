@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fc3fc3-e96c-4cf9-949f-7bcb98c81d89" name="Changes" comment="Added code to calculate the testMultiply method">
-      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" afterDir="false" />
+    <list default="true" id="a3fc3fc3-e96c-4cf9-949f-7bcb98c81d89" name="Changes" comment="Added code to CalculatorTest and Calculator classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/atu/ie/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/atu/ie/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +90,8 @@
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testDelete" />
         <item itemvalue="JUnit.CalculatorTest.testAdd" />
+        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testDelete" />
-        <item itemvalue="JUnit.CalculatorTest.testAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,42 @@
       <option name="project" value="LOCAL" />
       <updated>1680179622631</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added code in Calculator class">
+      <created>1680179674452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680179674452</updated>
+    </task>
+    <task id="LOCAL-00007" summary="testMultiply method passed the test">
+      <created>1680179739903</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680179739903</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Deleted old branch">
+      <created>1680179989398</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680179989398</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added new branch with method testDivide">
+      <created>1680180110225</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680180110225</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added code to CalculatorTest and Calculator classes">
+      <created>1680180264564</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680180264564</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +210,11 @@
     <MESSAGE value="Removed old branch" />
     <MESSAGE value="Added new branch and testMultiply method" />
     <MESSAGE value="Added code to calculate the testMultiply method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to calculate the testMultiply method" />
+    <MESSAGE value="Added code in Calculator class" />
+    <MESSAGE value="testMultiply method passed the test" />
+    <MESSAGE value="Deleted old branch" />
+    <MESSAGE value="Added new branch with method testDivide" />
+    <MESSAGE value="Added code to CalculatorTest and Calculator classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to CalculatorTest and Calculator classes" />
   </component>
 </project>
