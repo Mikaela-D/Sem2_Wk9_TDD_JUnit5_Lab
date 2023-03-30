@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fc3fc3-e96c-4cf9-949f-7bcb98c81d89" name="Changes" comment="Added code to test the testAdd method">
-      <change afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/atu/ie/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" />
+    <list default="true" id="a3fc3fc3-e96c-4cf9-949f-7bcb98c81d89" name="Changes" comment="Added class Calculator and fixed a bug in CalculatorTest">
+      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +43,45 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.testAdd">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD_JUnit_Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atu.ie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="atu.ie" />
+      <option name="MAIN_CLASS_NAME" value="atu.ie.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD_JUnit_Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atu.ie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="atu.ie" />
+      <option name="MAIN_CLASS_NAME" value="atu.ie.CalculatorTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest.testAdd" />
+        <item itemvalue="JUnit.CalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680172358268</updated>
-      <workItem from="1680172361720" duration="1146000" />
+      <workItem from="1680172361720" duration="1472000" />
     </task>
     <task id="LOCAL-00001" summary="New project for testing a Calculator application created">
       <created>1680172450913</created>
@@ -78,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680172681501</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added class Calculator and fixed a bug in CalculatorTest">
+      <created>1680173557115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680173557115</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +142,7 @@
     <MESSAGE value="New branch for testing the Add method addded" />
     <MESSAGE value="New Class for testing the methods added" />
     <MESSAGE value="Added code to test the testAdd method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to test the testAdd method" />
+    <MESSAGE value="Added class Calculator and fixed a bug in CalculatorTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added class Calculator and fixed a bug in CalculatorTest" />
   </component>
 </project>

@@ -1,6 +1,8 @@
 package atu.ie;
 
 public class Calculator {
-    public int add(int i, int i1) {
+
+    public int add(int a, int b) {
+        return a + b;
     }
 }
